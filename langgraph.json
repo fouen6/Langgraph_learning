@@ -1,0 +1,14 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "0_graph":"./module1/0_graph_state_str.py:graph",
+        "1_graph":"./module1/1_graph_state_dict.py:graph",
+        "2_graph":"./module1/2_graph_conditional_edge.py:graph",
+        "3_graph":"./module1/3_graph_introduction_model.py:graph",
+        "4_graph":"./module1/4_graph_messages_state.py:graph",
+        "5_graph":"./module1/5_graph_model_tool.py:graph",
+        "6_graph":"./module1/6_graph_tool_call.py:graph",
+        "8_graph":"./module1/8_graph_agent.py:graph"
+    },
+    "env": ".env"
+}
